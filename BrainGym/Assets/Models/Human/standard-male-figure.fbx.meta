@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: a456873362ebd9c4e9d61ce2b58ad214
+timeCreated: 1463853077
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Body_M_GeoRndr
+    100004: Camera_Perspective10
+    100006: FillLight
+    100008: GumsLower_M_GeoRndr
+    100010: GumsUpper_M_GeoRndr
+    100012: InnerEye_L_GeoRndr
+    100014: InnerEye_R_GeoRndr
+    100016: KeyLight
+    100018: LightPreset
+    100020: OuterEye_L_GeoRndr
+    100022: OuterEye_R_GeoRndr
+    100024: //RootNode
+    100026: TeethLower_M_GeoRndr
+    100028: TeethUpper_M_GeoRndr
+    100030: Tongue_M_GeoRndr
+    400000: BackLight
+    400002: Body_M_GeoRndr
+    400004: Camera_Perspective10
+    400006: FillLight
+    400008: GumsLower_M_GeoRndr
+    400010: GumsUpper_M_GeoRndr
+    400012: InnerEye_L_GeoRndr
+    400014: InnerEye_R_GeoRndr
+    400016: KeyLight
+    400018: LightPreset
+    400020: OuterEye_L_GeoRndr
+    400022: OuterEye_R_GeoRndr
+    400024: //RootNode
+    400026: TeethLower_M_GeoRndr
+    400028: TeethUpper_M_GeoRndr
+    400030: Tongue_M_GeoRndr
+    2300000: Body_M_GeoRndr
+    2300002: GumsLower_M_GeoRndr
+    2300004: GumsUpper_M_GeoRndr
+    2300006: InnerEye_L_GeoRndr
+    2300008: InnerEye_R_GeoRndr
+    2300010: OuterEye_L_GeoRndr
+    2300012: OuterEye_R_GeoRndr
+    2300014: TeethLower_M_GeoRndr
+    2300016: TeethUpper_M_GeoRndr
+    2300018: Tongue_M_GeoRndr
+    3300000: Body_M_GeoRndr
+    3300002: GumsLower_M_GeoRndr
+    3300004: GumsUpper_M_GeoRndr
+    3300006: InnerEye_L_GeoRndr
+    3300008: InnerEye_R_GeoRndr
+    3300010: OuterEye_L_GeoRndr
+    3300012: OuterEye_R_GeoRndr
+    3300014: TeethLower_M_GeoRndr
+    3300016: TeethUpper_M_GeoRndr
+    3300018: Tongue_M_GeoRndr
+    4300000: GumsLower_M_GeoRndr
+    4300002: GumsUpper_M_GeoRndr
+    4300004: InnerEye_L_GeoRndr
+    4300006: TeethUpper_M_GeoRndr
+    4300008: InnerEye_R_GeoRndr
+    4300010: Body_M_GeoRndr
+    4300012: Tongue_M_GeoRndr
+    4300014: OuterEye_L_GeoRndr
+    4300016: OuterEye_R_GeoRndr
+    4300018: TeethLower_M_GeoRndr
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
